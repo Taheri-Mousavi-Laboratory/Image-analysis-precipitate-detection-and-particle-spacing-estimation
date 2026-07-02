@@ -34,7 +34,7 @@ from scipy.spatial import KDTree
 # ============================================================
 
 IMAGE_PATH = (
-"C:/Users/hasan/OneDrive/Thermo_Calc_training/Precipicalc training/Narra paper validation/1_0HR_725C.tif"
+"data/1_0HR_725C.tif"
 )
 
 SCALE_BAR_MICRONS = 1.0     # length of the scale bar, in micrometres
