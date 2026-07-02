@@ -36,13 +36,13 @@ from scipy.spatial import KDTree
 
 IMAGE_PATHS = {
     "ROI-1": (
-        "C:/Users/hasan/OneDrive/Thermo_Calc_training/Precipicalc training/Narra paper validation/5_0HR_725C_10.tif"
+        "data/5_0HR_725C_10.tif"
     ),
     "ROI-2": (
-        "C:/Users/hasan/OneDrive/Thermo_Calc_training/Precipicalc training/Narra paper validation/5_0HR_725C_20.tif"
+        "data/5_0HR_725C_20.tif"
     ),
     "ROI-3": (
-        "C:/Users/hasan/OneDrive/Thermo_Calc_training/Precipicalc training/Narra paper validation/5_0HR_725C_30.tif"
+        "data/5_0HR_725C_30.tif"
     ),
 }
 
