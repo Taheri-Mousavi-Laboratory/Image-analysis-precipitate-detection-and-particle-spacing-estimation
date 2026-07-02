@@ -31,6 +31,8 @@ precipitate-analysis/
 └── src/
     ├── precipitate_analysis_725C_1hr.py
     └── precipitate_analysis_725C_5hr.py
+└── demo/
+    ├── DemoIPspacing.ipynb
 ```
 
 Keeping raw micrographs in `data/` (git-ignored) and code in `src/` keeps the
