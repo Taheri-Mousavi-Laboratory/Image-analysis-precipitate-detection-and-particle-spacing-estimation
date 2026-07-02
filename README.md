@@ -27,10 +27,6 @@ precipitate-analysis/
 ├── requirements.txt
 ├── .gitignore
 ├── data/                                 <- put your .tif micrographs here (not tracked by git)
-│   ├── 1_0HR_725C.tif
-│   ├── 5_0HR_725C_10.tif
-│   ├── 5_0HR_725C_20.tif
-│   └── 5_0HR_725C_30.tif
 ├── outputs/                              <- save exported figures/CSVs here if desired (not tracked by git)
 └── src/
     ├── precipitate_analysis_725C_1hr.py
@@ -43,7 +39,7 @@ repo lightweight and avoids committing large/proprietary image files.
 ## Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Taheri-Mousavi-Laboratory/Image-analysis-precipitate-detection-and-particle-spacing-estimation
 cd precipitate-analysis
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
